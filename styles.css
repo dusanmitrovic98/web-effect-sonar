@@ -42,3 +42,4 @@ body {
 @keyframes bounce {
     from {
         transform: scaleY(1);
+    }
