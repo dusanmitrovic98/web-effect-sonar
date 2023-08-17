@@ -36,3 +36,4 @@ body {
     opacity: 0.8;
     animation: bounce 2s ease-in-out infinite alternate;
     transform-origin: bottom center;
+    margin: 0 10px;
