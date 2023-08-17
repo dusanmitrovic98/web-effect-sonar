@@ -44,3 +44,4 @@ body {
         transform: scaleY(1);
     }
     to {
+        transform: scaleY(0.3);
