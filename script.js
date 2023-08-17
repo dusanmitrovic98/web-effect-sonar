@@ -4,3 +4,4 @@ function simulateVoiceInput() {
   updateVisualizer(randomAmplitude);
 }
 
+setInterval(simulateVoiceInput, 2000);
