@@ -34,3 +34,4 @@ body {
     height: 120px;
     background-color: #00bfff; /* Deep Sky Blue */
     opacity: 0.8;
+    animation: bounce 2s ease-in-out infinite alternate;
